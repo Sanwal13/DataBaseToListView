@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataBaseToListView</string>
+    <string name="add_emp">Add Employee</string>
+    <string name="update_emp">Update Employee</string>
+    <string name="name">Employee Name</string>
+    <string name="dob">Employee DOB</string>
+    <string name="salary">Employee Salary</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+</resources>
